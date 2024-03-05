@@ -781,3 +781,7 @@ h2 {
   border-radius: 4px;
   cursor: pointer;
 }
+.image-container {
+  max-width: 100%;
+  height: auto;
+}
